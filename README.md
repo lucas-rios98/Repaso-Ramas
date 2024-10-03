@@ -1,3 +1,6 @@
-#Clase o6 - Bootcamp
+# Clase o6 - Bootcamp
 
-git 
+## Repaso git
+
+# Creo el repositorio de git
+
