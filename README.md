@@ -18,3 +18,4 @@ git add  (nombre-archivo) (nombre-archivo) (nombre-archivo)
 git add .  # agrega todos los archivos que tengo en el working directort (WD)
 
 2.Hago el commit
+
